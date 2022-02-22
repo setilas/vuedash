@@ -4,7 +4,7 @@
       <div class="login-box">
         <div class="logo-main">
           <a href="/admin">
-            <img src="/assets/img/logo-large.png" alt="Laraspace Logo">
+            <img src="/assets/img/logo.jpg" alt="Laraspace Logo">
           </a>
         </div>
         <router-view/>
@@ -12,7 +12,7 @@
           <p>Powered by
             <a href="http://bytefury.com" target="_blank">Bytefury</a>
           </p>
-          <p>Laraspace © 2016</p>
+          <p>Laraspace © 2022</p>
         </div>
       </div>
     </div>
