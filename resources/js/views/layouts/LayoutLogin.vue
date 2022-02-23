@@ -1,4 +1,4 @@
-<template>
+﻿<template>
   <div class="login-page login-1">
     <div class="login-wrapper">
       <div class="login-box">
@@ -12,7 +12,7 @@
           <p>Powered by
             <a href="http://bytefury.com" target="_blank">Bytefury</a>
           </p>
-          <p>Laraspace © 2016</p>
+          <p>Admin © 2020</p>
         </div>
       </div>
     </div>
