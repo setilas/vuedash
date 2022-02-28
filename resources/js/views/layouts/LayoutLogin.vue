@@ -12,7 +12,11 @@
           <p>Powered by
             <a href="http://admin.com" target="_blank">mywebsite</a>
           </p>
+<<<<<<< Updated upstream
           <p>Laraspace © 2016</p>
+=======
+          <p>laraspace© 2020</p>
+>>>>>>> Stashed changes
         </div>
       </div>
     </div>

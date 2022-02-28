@@ -13,7 +13,11 @@
             <p>Powered by
               <a href="http://bytefury.com" target="_blank">Bytefury</a>
             </p>
+<<<<<<< Updated upstream
             <p>Laraspace © 2016</p>
+=======
+            <p>laraspace © 2020</p>
+>>>>>>> Stashed changes
           </div>
         </div>
       </div>
