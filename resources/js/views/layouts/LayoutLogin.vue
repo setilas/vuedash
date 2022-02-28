@@ -12,7 +12,7 @@
           <p>Powered by
             <a href="http://bytefury.com" target="_blank">Bytefury</a>
           </p>
-          <p>Admin  © 2022 </p>
+         
         </div>
       </div>
     </div>
