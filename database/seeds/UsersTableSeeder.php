@@ -31,5 +31,11 @@ class UsersTableSeeder extends Seeder
             'role' => 'user',
             'password' => bcrypt('jesse@123')
         ]);
+        User::create([
+            'email' => 'brian@laraspace.in',
+            'name' => 'Brian Anikayi',
+            'role' => 'user',
+            'password' => bcrypt('brian@123')
+        ]);
     }
 }
