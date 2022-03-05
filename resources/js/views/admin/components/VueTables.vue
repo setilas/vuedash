@@ -63,6 +63,7 @@
       </div>
       <div class="card-body">
         <table-component :data="fetchData" table-class="table">
+          <table-column show="no" label="#"/>
           <table-column show="name" label="Name"/>
           <table-column show="email" label="Email"/>
           <table-column show="role" label="Role"/>
